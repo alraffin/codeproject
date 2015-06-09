@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using Microsoft.Web.WebPages.OAuth;
 using Sample_MVCApp.Models;
-
+// useless comment to test triggers
 namespace Sample_MVCApp
 {
     public static class AuthConfig
