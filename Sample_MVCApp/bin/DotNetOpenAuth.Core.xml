@@ -9866,11 +9866,6 @@
             whether the build is an official or private one.
             </summary>
         </member>
-        <member name="P:DotNetOpenAuth.Util.AssemblyFileVersion">
-            <summary>
-            Gets the assembly file version of the executing assembly, otherwise falls back to the assembly version.
-            </summary>
-        </member>
         <member name="T:DotNetOpenAuth.Util.DelayedToString`1">
             <summary>
             Manages an individual deferred ToString call.
