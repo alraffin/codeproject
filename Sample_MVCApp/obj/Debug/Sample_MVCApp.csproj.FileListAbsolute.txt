@@ -67,6 +67,5 @@ C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\System.Web.W
 C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\WebMatrix.Data.xml
 C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\Microsoft.Web.WebPages.OAuth.xml
 C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\WebMatrix.WebData.xml
-C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\obj\Debug\Sample_MVCApp.csprojResolveAssemblyReference.cache
 C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\obj\Debug\Sample_MVCApp.dll
 C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\obj\Debug\Sample_MVCApp.pdb
