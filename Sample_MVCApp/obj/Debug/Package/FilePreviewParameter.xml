@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="samplemvc" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\WindowsUser\\Documents\\GitHub\\codeproject\\Sample_MVCApp\\obj\\Debug\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\WindowsUser\\Documents\\GitHub\\codeproject\\Sample_MVCApp\\obj\\Debug\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=(LocalDb)\v11.0;Initial Catalog=aspnet-Sample_MVCApp-20121025191300;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|\aspnet-Sample_MVCApp-20121025191300.mdf" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\WindowsUser\\Documents\\GitHub\\codeproject\\Sample_MVCApp\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="Sample_MVCAppContext-Web.config Connection String" description="" value="Data Source=(localdb)\v11.0; Initial Catalog=Sample_MVCAppContext-20121029122327; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|Sample_MVCAppContext-20121029122327.mdf" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\WindowsUser\\Documents\\GitHub\\codeproject\\Sample_MVCApp\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Sample_MVCAppContext']/@connectionString" />
+  </parameter>
+</parameters>
