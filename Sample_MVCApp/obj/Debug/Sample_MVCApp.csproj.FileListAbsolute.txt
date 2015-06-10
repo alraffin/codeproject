@@ -58,11 +58,8 @@ C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\System.Web.W
 C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\System.Web.WebPages.Razor.dll
 C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\WebMatrix.Data.dll
 C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\WebMatrix.WebData.dll
-C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\EntityFramework.xml
 C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\Microsoft.Web.Infrastructure.xml
-C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\Newtonsoft.Json.xml
 C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\System.Web.Helpers.xml
-C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\System.Web.Mvc.xml
 C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\System.Web.Razor.xml
 C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\System.Web.WebPages.xml
 C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\System.Web.WebPages.Deployment.xml
@@ -70,12 +67,6 @@ C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\System.Web.W
 C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\WebMatrix.Data.xml
 C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\Microsoft.Web.WebPages.OAuth.xml
 C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\WebMatrix.WebData.xml
-C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\DotNetOpenAuth.AspNet.xml
-C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\DotNetOpenAuth.Core.xml
-C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
-C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\DotNetOpenAuth.OAuth.xml
-C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\DotNetOpenAuth.OpenId.xml
-C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
 C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\obj\Debug\Sample_MVCApp.csprojResolveAssemblyReference.cache
 C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\obj\Debug\Sample_MVCApp.dll
 C:\Users\WindowsUser\Documents\GitHub\codeproject\Sample_MVCApp\obj\Debug\Sample_MVCApp.pdb
