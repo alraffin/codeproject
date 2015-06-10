@@ -225,7 +225,7 @@
     <Content Include="Global.asax" />
     <Content Include="Scripts\jquery-1.7.1.js" />
     <Content Include="Scripts\jquery-1.7.1.min.js" />
-    <None Include="Properties\PublishProfiles\local vm.pubxml" />
+    <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
     <Content Include="Scripts\jquery-ui-1.8.20.js" />
     <Content Include="Scripts\jquery.unobtrusive-ajax.js" />
