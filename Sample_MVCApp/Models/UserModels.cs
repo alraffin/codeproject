@@ -9,17 +9,24 @@ namespace Sample_MVCApp.Models
 {
     public class UserModels
     {
-       
+        [DisplayName("First Name")]
+        [Required (ErrorMessage="First name is required")]
         public string FirstName { get; set; }
        
+        [DisplayName("Last Name")]
+        [Required (ErrorMessage="Last name is required")]
         public string LastName { get; set; }
+
+        [StringLength(50)]
         public string Address { get; set; }
        
        
         public string Email { get; set; }
-       
+
+        [DataType(DataType.Date)]
         public DateTime DOB { get; set; }
        
+        [Range(1200, 10000)]
         public decimal Salary { get; set; }
     }
     public class Users
@@ -33,7 +40,7 @@ namespace Sample_MVCApp.Models
                 Address = "Indore MP",
                 Email = "test@test.com",
                 DOB = Convert.ToDateTime("6/22/1976"),
-                Salary = 40000
+                Salary = 4000
 
             });
             _userList.Add(new UserModels
@@ -82,8 +89,8 @@ namespace Sample_MVCApp.Models
 
             foreach (UserModels um in _userList)
                 if (um.Email == Email)
-                    usrMdl = um;
-
+                    usrMdl = um; // why not return um; right there?
+ 
             return usrMdl;
         }
 
